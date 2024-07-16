@@ -1,0 +1,17 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-5096bd00.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/css/front.css": {
+    "file": "assets/front-464335fa.css",
+    "isEntry": true,
+    "src": "resources/css/front.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-e9adc5e2.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
